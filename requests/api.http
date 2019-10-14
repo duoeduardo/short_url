@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.infobae.com/deportes/2019/10/12/cuales-son-los-cambios-que-planea-lionel-scaloni-para-el-segundo-amistoso-de-la-seleccion-ante-ecuador/"
+}
